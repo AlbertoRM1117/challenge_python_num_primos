@@ -1,0 +1,15 @@
+2 es un número primo
+3 es un número primo
+5 es un número primo
+7 es un número primo
+11 es un número primo
+13 es un número primo
+17 es un número primo
+19 es un número primo
+23 es un número primo
+29 es un número primo
+31 es un número primo
+37 es un número primo
+41 es un número primo
+43 es un número primo
+47 es un número primo
